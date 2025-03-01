@@ -1,4 +1,4 @@
-# tictactoe_using_JS
+# Tictactoe Using Javascript
 </br>
 Here is a Tic Tac Toe game made using JavaSript, HTML and CSS</br>
 Files Include: </br>
